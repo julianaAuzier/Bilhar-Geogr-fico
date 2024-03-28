@@ -1,2 +1,2 @@
 # Bilhar-Geogr-fico
-Jogo educacional desenvolvido para o ensino de geografia para crianças com TDAH
+Jogo educacional desenvolvido em construct para o ensino de geografia para crianças com TDAH
