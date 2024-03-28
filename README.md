@@ -1,5 +1,5 @@
 # Bilhar Geográfico
-Jogo educacional desenvolvido em Construct para para auxiliar no ensino de geografia para crianças com TDAH.
+Jogo educacional desenvolvido em Construct2 para para auxiliar no ensino de geografia para crianças com TDAH.
 
 O jogo foi desenvolvido com base no conceito de DCU (design centrado no usuário), levando em consideração as peculiaridades comportamentais de crianças com TDAH, de acordo com autores deste domínio.
 
